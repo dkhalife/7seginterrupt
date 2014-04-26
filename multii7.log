@@ -1,0 +1,13 @@
+Line	MessageNo	File Name
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo4 -N"C:\Users\Dan\Desktop\Multiplexed 7Seg with Interrup\multii7.mcppi" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Program Files (x86)\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Dan\Desktop\Multiplexed 7Seg with Interrup\" -SP"I:\Documents\Projects\Pic Tools\Multiplexed 7Seg with Interrup\" "multii7.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'I:\Documents\Projects\Pic Tools\Multiplexed 7Seg with Interrup'	 
+diagnostics: 0	125	All files Preprocessed in 93 ms	 
+diagnostics: 0	121	Compilation Started	multii7.c
+diagnostics: 167	122	Compiled Successfully	multii7.c
+diagnostics: 0	126	All files Compiled in 203 ms	 
+hint: 0	1140	Used RAM (bytes): 31 (2%)  Free RAM (bytes): 1484 (98%)	Used RAM (bytes): 31 (2%)  Free RAM (bytes): 1484 (98%)
+hint: 0	1140	Used ROM (bytes): 1628 (5%)  Free ROM (bytes): 31140 (95%)	Used ROM (bytes): 1628 (5%)  Free ROM (bytes): 31140 (95%)
+diagnostics: 0	124	Project Linked Successfully	multii7.mcppi
+diagnostics: 0	127	Linked in 515 ms	 
+diagnostics: 0	128	Project 'multii7.mcppi' completed: 983 ms	 
+diagnostics: 0	103	Finished successfully: 19 Feb 2011, 10:02:26	multii7.mcppi
